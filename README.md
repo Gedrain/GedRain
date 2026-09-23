@@ -188,18 +188,6 @@ Automation
 
 ---
 
-## `github`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GedRain&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GedRain&layout=compact&hide_border=true&theme=transparent" height="170">
-
-</div>
-
----
-
 ## `contact`
 
 Я всегда открыт к новым предложениям, совместной разработке и интересным проектам.
