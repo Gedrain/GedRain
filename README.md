@@ -192,7 +192,7 @@ Automation
 
 Я всегда открыт к новым предложениям, совместной разработке и интересным проектам.
 TELEGRAM : @Gedrain
-MAIL : packemaker@mail.ru | imortalshoo@gmail.com
+MAIL : gedrain@notfoundvpn.space
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
