@@ -140,7 +140,7 @@ LANGUAGES
 └── GDScript
 
 PLATFORMS
-├── Linux
+├── Linux (Omarchy, ArchLinux, Ubuntu, Fedora, SteamOS, Gentoo) 
 ├── Windows
 └── Android
 
