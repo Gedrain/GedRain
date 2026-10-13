@@ -132,7 +132,11 @@ Development
 LANGUAGES
 ├── Python
 ├── C++
-├── JavaScript
+├── JavaScript/TypeScript/TSX
+├── Go
+├── Kotlin/Jetpack Compose
+├── SQL/PostgreSQL
+├── HTML/CSS
 └── GDScript
 
 PLATFORMS
