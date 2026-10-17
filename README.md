@@ -2,11 +2,11 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                        G E D R A I N                         ║
-║                                                              ║
-║                DEVELOPER · CREATOR · EXPLORER                ║
-║                                                              ║
+║                                                                         ║
+║                        G E D R A I N                                    ║
+║                                                                         ║
+║                DEVELOPER · CREATOR · EXPLORER                           ║
+║                                                                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -30,8 +30,8 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  Не обязательно знать всё.                                  │
-│  Важно уметь разобраться.                                   │
+│  Не обязательно знать всё.                                              │
+│  Важно уметь разобраться.                                               │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -103,21 +103,21 @@ Development
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║ PROJECTS                                                     ║
+║ PROJECTS                                                                ║
 ╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  01  NOTFOUND VPN                                            ║
-║      Network infrastructure / Backend / Clients              ║
-║                                                              ║
-║  02  PIXELchat                                               ║
-║      Communication / Backend / Infrastructure                ║
-║                                                              ║
-║  03  Nekochat                                                ║
-║      Communication / Applications                            ║
-║                                                              ║
-║  04  Personal Projects                                       ║
-║      GameDev                                                 ║
-║                                                              ║
+║                                                                         ║
+║  01  NOTFOUND VPN                                                       ║
+║      Network infrastructure / Backend / Clients                         ║
+║                                                                         ║
+║  02  PIXELchat                                                          ║
+║      Communication / Backend / Infrastructure                           ║
+║                                                                         ║
+║  03  Nekochat                                                           ║
+║      Communication / Applications                                       ║
+║                                                                         ║
+║  04  Personal Projects                                                  ║
+║      GameDev                                                            ║
+║                                                                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -201,13 +201,13 @@ MAIL : gedrain@notfoundvpn.space
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                 BUILD SOMETHING NEW.                         ║
-║                                                              ║
-║                 LEARN EVERY DAY.                             ║
-║                                                              ║
-║                 EXPLORE NEW HORIZONS.                        ║
-║                                                              ║
+║                                                                         ║
+║                 BUILD SOMETHING NEW.                                    ║
+║                                                                         ║
+║                 LEARN EVERY DAY.                                        ║
+║                                                                         ║
+║                 EXPLORE NEW HORIZONS.                                   ║
+║                                                                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
